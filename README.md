@@ -1,10 +1,9 @@
-## Hi, I'm Juheon Kim 👋
+<h1 align="center">Hi 👋, I'm Juheon</h1>
+<h3 align="center">I'm currently an undergraduate student at George Mason University</h3>
 
-<!--
-**Juheon811/Juheon811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently an undergraduate student at Geroge Mason University.
-- 🌱 My major is computational and data science.
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
