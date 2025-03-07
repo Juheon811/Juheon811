@@ -4,9 +4,8 @@
 
 #### ✨ About Me
 
-- I'm a student at 🏫 George Mason University
-- 🌱 I’m currently learning 💻 Computational & Data Sciences
-- 🤓 I'm interested in 🧪 Biomedical Science, Psychology
+- I'm an undergraduate student at 🏫 George Mason University
+- 🌱 I’m majoring in 💻 Computational & Data Sciences
 
 
 <h3 align="left">Languages and Tools:</h3>
