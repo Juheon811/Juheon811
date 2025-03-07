@@ -21,8 +21,8 @@
 [![NetLogo](https://img.shields.io/badge/NetLogo-0F4D92?style=for-the-badge&logoColor=white)](https://ccl.northwestern.edu/netlogo/)
 
 #### 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juheon-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juheon811)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juheon-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juheon811)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
