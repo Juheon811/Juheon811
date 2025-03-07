@@ -1,12 +1,14 @@
 <h1 align="center">Hello 👋, I'm Juheon</h1>
-<h3 align="left">I'm currently an undergraduate student at George Mason University</h3>
-
 
 #### ✨ About Me
 
 - I'm an undergraduate student at 🏫 George Mason University
 - 🌱 I’m majoring in 💻 Computational & Data Sciences
 
+#### Contact
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thnoo95@gmail.com)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
