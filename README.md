@@ -1,9 +1,6 @@
 <h1 align="center">Hello 👋, I'm Juheon</h1>
 <h3 align="left">I'm currently an undergraduate student at George Mason University</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 #### ✨ About Me
 
